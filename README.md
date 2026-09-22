@@ -353,4 +353,16 @@ Expect architectural changes, experiments, unfinished features, and breaking cha
 
 The goal is not to recreate every existing productivity application.
 
-The goal is to explore what an **open, local-first, AI-**
+The goal is to explore what an **open, local-first, AI-native workspace ecosystem** can become.
+
+---
+
+## License
+
+See the individual project directories and repository license files for licensing information.
+
+---
+
+**Eviory**
+
+*Open-source workspaces for the modern web.*
