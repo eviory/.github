@@ -14,7 +14,7 @@ Our work spans productivity software, visual workspaces, AI-assisted workflows, 
 
 ## What We're Building
 
-### Eviory
+### Eviory OS
 
 Our core product ecosystem for digital work.
 
