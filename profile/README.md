@@ -107,7 +107,7 @@ The underlying principle doesn't:
 
 [Website](https://eviory.com)
 
-[GitHub](https://github.com/aldhydheriz)
+[GitHub](https://github.com/eviory)
 
 ---
 
